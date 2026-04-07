@@ -1,16 +1,16 @@
 #### Projeto de começo;
 #### Comunicação entre Interface e Arduino;
 
-### Abre uma janela onde;
+## Abre uma janela onde;
 
 ----------------------------------------------------------------
-## Contem um titulo sobre o app;
+### Contem um titulo sobre o app;
 
 ----------------------------------------------------------------
-## Contem titulo e subtitulo com o estdado do LED;
+### Contem titulo e subtitulo com o estdado do LED;
 
 ----------------------------------------------------------------
-## Contem 2 botões:
+### Contem 2 botões:
     Um para Ligar o LED;
     Um para Desligar o LED;
 
